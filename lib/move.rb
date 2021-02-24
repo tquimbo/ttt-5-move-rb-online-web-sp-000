@@ -14,7 +14,4 @@ end
 def move(board, index, value = "X")
   board[index] = value
 end
-#
-update_array_at_with(board, 0, "X")
 
-board
