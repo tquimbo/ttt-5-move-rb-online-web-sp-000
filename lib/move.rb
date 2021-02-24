@@ -17,4 +17,4 @@ end
 #
 # update_array_at_with(board, 0, "X")
 #
-# board 
+# board
